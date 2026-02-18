@@ -1,1 +1,4 @@
 *__pycache__/
+
+# Ignora a pasta __pycache__ que contém arquivos compilados do Python (.pyc)
+# Esses arquivos são gerados automaticamente e não precisam ser versionados
