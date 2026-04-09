@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="center">
-<img src="img/Python regex replace.jpeg" alt="Regex Project" Width="550"></h2>
+<img src="img/Python regex replace.jpeg" alt="Regex Project" Width="450"></h2>
 
 <p align="center">
 Projeto focado no estudo e aplicação de <strong>Expressões Regulares (Regex)</strong> com Python, explorando validações, buscas textuais, padrões complexos e automações inteligentes de manipulação de strings. 🔍
@@ -40,23 +40,29 @@ Projeto focado no estudo e aplicação de <strong>Expressões Regulares (Regex)<
 <pre>
 Regex_Python/
 │
+├── .github/<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="60"/>
+│   └── workflows/<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="14"/>
+│
 ├── img/
-│   └── Python regex replace.jpeg<img src="https://cdn-icons-png.flaticon.com/512/136/136524.png" width="18"/>
+│   └── Python regex replace.jpeg <img src="https://cdn-icons-png.flaticon.com/512/136/136524.png" width="18"/>
 │
 ├── projetos_regex/
-│   └── contrato_usando_regex.py<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
-│   └── email_usando_regex.py<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
-│   └── telefone_usando_regex.py<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
-│   └── url_usando_regex.py<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
-│   └── placa_mercosul_usando_regex.py<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
-│   └── cpf_avançado_usando_regex.py<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
-│   └── cep_usando_regex.py<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
-│   └── to-do-list_terminal_bonus.py<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
-│   └── cores.py<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
+│   └── python/ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="18"/>
+│       └── contrato_usando_regex.py <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
+│       └── email_usando_regex.py <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
+│       └── telefone_usando_regex.py <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
+│       └── url_usando_regex.py <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
+│       └── placa_mercosul_usando_regex.py <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
+│       └── cpf_avançado_usando_regex.py <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
+│       └── criptografia_geral_regex.py <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
+│       └── criptografia_geral_regex_doc.py <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
+│       └── cep_usando_regex.py <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
+│       └── to-do-list_terminal_bonus.py <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
+│       └── cores.py <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18"/>
 │
-├── .gitignore<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="18"/>
-├── license (MIT)<img src="https://cdn-icons-png.flaticon.com/512/1161/1161388.png" width="18"/>
-└── readme.md<img src="https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=000000" height="15"/>
+├── .gitignore <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="18"/>
+├── license (MIT) <img src="https://cdn-icons-png.flaticon.com/512/1161/1161388.png" width="18"/>
+└── readme.md <img src="https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=000000" height="15"/>
 </pre>
 
 
